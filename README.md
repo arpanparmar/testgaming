@@ -54,7 +54,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 ### Clone the repository
 ```bash
-git clone https://github.com/rohan-bhautoo/Game-Website-React.git
+git clone https://github.com/arpanparmar/testgaming.git
 ```
 
 ### Install the dependencies
