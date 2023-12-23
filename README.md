@@ -68,13 +68,4 @@ Execute the command below to open a local session.
 npm run dev
 ```
 
-## Author
 
-👤 **Rohan Bhautoo**
-
-* Github: [@rohan-bhautoo](https://github.com/rohan-bhautoo)
-* LinkedIn: [@rohan-bhautoo](https://linkedin.com/in/rohan-bhautoo)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
